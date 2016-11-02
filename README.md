@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hpsilva/PyBox.svg?branch=master)](https://travis-ci.org/hpsilva/PyBox)
 [![Coverage Status](https://coveralls.io/repos/github/hpsilva/PyBox/badge.svg?branch=master)](https://coveralls.io/github/hpsilva/PyBox?branch=master)
 
 >
